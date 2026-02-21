@@ -2,7 +2,7 @@
   {
     "title": "Sonic Dancing",
     "description": "You get sonic dancing on your playback bar!",
-    "code": ".player-controls .playback-progressbar::before { content: ''; width: 32px; height: 32px; bottom: calc(100% - 7px); right: 10px; position: absolute; image-rendering: pixelated; background-size: 32px 32px; background-image: url('https://media.tenor.com/pWqGD2PHY3kAAAAj/fortnite-dance-sonic.gif'); }",
+    "code": ".player-controls .playback-progressbar::before { content: ''; width: 32px; height: 32px; bottom: calc(100% - 7px); right: 10px; position: absolute; image-rendering: pixelated; background-size: 32px 32px; background-image: url('https://kl.phncdn.com/gif/41558461.gif?hdnea=st=1771679848~exp=1771687048~hdl=-1~hmac=62927348452e3210a94edf0175a48440f394f529'); }",
     "preview": "resources/assets/snippets/sonic-dancing.png"
   },
   {
